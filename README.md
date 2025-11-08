@@ -153,5 +153,5 @@ sudo cp -r * /var/www/html
 Feel free to fork the repository and submit pull requests for improvements or bug fixes.
 ## Route53
 
-*. certificate for backend
+*. certificate for backend &
 normal for frontend
